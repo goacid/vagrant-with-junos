@@ -1,4 +1,4 @@
-* For ubuntu 16.04 *
+For ubuntu 16.04
 
 Pre requisites:
 
